@@ -58,14 +58,14 @@ Shift + Enter
 
 # Step 2: Download the DepMap Data
 
-For this workshop you need two files:
+For this workshop you need two files, download them from https://depmap.org/portal/data_page/?tab=allData:
 
 ```text
 CRISPRGeneEffect.csv
 Model.csv
 ```
 
-These files are available from the instructor.
+These files are also available from the instructor.
 
 Copy the following files:
 
